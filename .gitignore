@@ -1,0 +1,13 @@
+### Files ###
+
+*.bak
+*.pyc
+
+
+### Folders ###
+
+.version/
+
+__pycache__/
+
+outputs/
